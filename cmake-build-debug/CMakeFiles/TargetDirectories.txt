@@ -1,0 +1,3 @@
+C:/Users/sammi/Desktop/harjoittelu/cmake-build-debug/CMakeFiles/harjoittelu.dir
+C:/Users/sammi/Desktop/harjoittelu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sammi/Desktop/harjoittelu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
